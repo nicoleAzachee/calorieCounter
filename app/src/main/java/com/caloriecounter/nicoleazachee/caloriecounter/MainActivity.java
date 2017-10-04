@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
     EditText entry_add_calorie, entry_search_calorie;
     ImageView button_add_calorie;
     public int total_calorie_count;
+    View view_to_add_to_test_git;
     String tag = this.getClass().getSimpleName();
 
     @Override
