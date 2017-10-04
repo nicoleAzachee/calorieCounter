@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "346231125719",
+    "firebase_url": "https://pushnotification-5166c.firebaseio.com",
+    "project_id": "pushnotification-5166c",
+    "storage_bucket": "pushnotification-5166c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346231125719:android:1b057c1eed829448",
+        "android_client_info": {
+          "package_name": "com.caloriecounter.nicoleazachee.caloriecounter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346231125719-ect79h94619a2g85qapdck3png9643h0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxF6UJg4IacCIkvaykErfotY5LTHRJ1H0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
